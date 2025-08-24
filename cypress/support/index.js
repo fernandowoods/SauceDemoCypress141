@@ -1,1 +1,0 @@
-import 'cypress-xpath'    // Serve para todas as pastas
